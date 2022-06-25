@@ -110,6 +110,7 @@
       bottom: 5px;
       right: 5px; }
     .nav div div {
+      transition: .3s;
       height: 100vh;
       display: flex; }
       .nav div div ul {
